@@ -1,0 +1,2 @@
+kernel/drivers/power/supply/qcom/smb1390-charger-psy.ko
+kernel/drivers/power/supply/qcom/pmic-voter.ko

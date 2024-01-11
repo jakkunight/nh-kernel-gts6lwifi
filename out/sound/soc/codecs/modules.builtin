@@ -1,0 +1,5 @@
+kernel/sound/soc/codecs/snd-soc-cs35l41.ko
+kernel/sound/soc/codecs/snd-soc-cs48l32.ko
+kernel/sound/soc/codecs/snd-soc-hdmi-codec.ko
+kernel/sound/soc/codecs/snd-soc-tacna.ko
+kernel/sound/soc/codecs/snd-soc-wm-adsp.ko

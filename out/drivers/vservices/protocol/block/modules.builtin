@@ -1,0 +1,2 @@
+kernel/drivers/vservices/protocol/block/vservices_protocol_block_server.ko
+kernel/drivers/vservices/protocol/block/vservices_protocol_block_client.ko

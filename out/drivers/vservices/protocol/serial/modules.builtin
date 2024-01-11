@@ -1,0 +1,2 @@
+kernel/drivers/vservices/protocol/serial/vservices_protocol_serial_client.ko
+kernel/drivers/vservices/protocol/serial/vservices_protocol_serial_server.ko

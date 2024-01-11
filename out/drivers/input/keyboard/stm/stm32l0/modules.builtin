@@ -1,0 +1,3 @@
+kernel/drivers/input/keyboard/stm/stm32l0/stm32_pogo_i2c.ko
+kernel/drivers/input/keyboard/stm/stm32l0/stm32_pogo_keyboard.ko
+kernel/drivers/input/keyboard/stm/stm32l0/stm32_pogo_touchpad.ko

@@ -1,0 +1,10 @@
+kernel/drivers/vservices/vservices.ko
+kernel/drivers/vservices/core_client.ko
+kernel/drivers/vservices/core_server.ko
+kernel/drivers/vservices/protocol/block/vservices_protocol_block_server.ko
+kernel/drivers/vservices/protocol/block/vservices_protocol_block_client.ko
+kernel/drivers/vservices/protocol/core/vservices_protocol_core_server.ko
+kernel/drivers/vservices/protocol/core/vservices_protocol_core_client.ko
+kernel/drivers/vservices/protocol/serial/vservices_protocol_serial_client.ko
+kernel/drivers/vservices/protocol/serial/vservices_protocol_serial_server.ko
+kernel/drivers/vservices/transport/vtransport_axon.ko

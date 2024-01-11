@@ -1,0 +1,6 @@
+kernel/drivers/input/keyboard/atkbd.ko
+kernel/drivers/input/keyboard/gpio_keys.ko
+kernel/drivers/input/keyboard/certify_hall_ic.ko
+kernel/drivers/input/keyboard/stm/stm32l0/stm32_pogo_i2c.ko
+kernel/drivers/input/keyboard/stm/stm32l0/stm32_pogo_keyboard.ko
+kernel/drivers/input/keyboard/stm/stm32l0/stm32_pogo_touchpad.ko

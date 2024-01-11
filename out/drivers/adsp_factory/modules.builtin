@@ -1,0 +1,6 @@
+kernel/drivers/adsp_factory/adsp_factory.ko
+kernel/drivers/adsp_factory/ssc_core.ko
+kernel/drivers/adsp_factory/lsm6dso_accel.ko
+kernel/drivers/adsp_factory/lsm6dso_gyro.ko
+kernel/drivers/adsp_factory/ak09918_mag.ko
+kernel/drivers/adsp_factory/veml3328_light.ko
